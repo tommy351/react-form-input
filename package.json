@@ -8,7 +8,7 @@
     "lint": "eslint ./lib --ext .js"
   },
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
-  "repository": "tommy351/react-dropdown-menu",
+  "repository": "tommy351/react-form-input",
   "devDependencies": {
     "eslint": "^0.21.0",
     "react": "^0.13.3"

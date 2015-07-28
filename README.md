@@ -1,5 +1,5 @@
-# React Dropdown Menu
+# react-form-input
 
 ``` bash
-$ npm install react-dropdown-menu --save
+$ npm install react-form-input --save
 ```
