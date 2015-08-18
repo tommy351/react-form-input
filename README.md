@@ -18,7 +18,7 @@ import Input, {validators, transformers} from 'react-form-input';
 class Form extends React.Component {
   constructor(props, context){
     super(props, context);
-    
+
     this.state = {
       name: ''
     };
@@ -50,7 +50,7 @@ class Form extends React.Component {
 - `validators`: An array contains validator functions
 - `transformers`: An array contains transformer functions
 - `onChange`: Fired when the value changed
-- `initialValue`: The initial value of input
+- `defaultValue`: The initial value of input
 - `value`: The value of input
 - `type`: The type of input (text, email, number, textarea, etc.)
 - `dirtyClass`: The class name appended to the input when the value has been changed
