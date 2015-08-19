@@ -1,7 +1,7 @@
 {
   "name": "react-form-input",
-  "version": "0.2.0",
-  "description": "react-form-input",
+  "version": "0.3.0",
+  "description": "An enhanced input component comes with validators and transformers.",
   "license": "MIT",
   "main": "lib/index",
   "scripts": {
