@@ -66,6 +66,14 @@ Returns the value of the input.
 
 Returns the error of the input.
 
+**setValue()**
+
+Sets the value of the input.
+
+**setError()**
+
+Sets the error of the input.
+
 **reset()**
 
 Reset the state of the input.
